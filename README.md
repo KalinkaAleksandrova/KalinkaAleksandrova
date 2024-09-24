@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KalinkaAleksandrova
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science at the university
-- 📫 How to reach me https://www.linkedin.com/in/kalinka-aleksandrova-056873271/
+- 📫 How to reach me kalinka.aleksandrova96@gmail.com
 
 
 <!---
