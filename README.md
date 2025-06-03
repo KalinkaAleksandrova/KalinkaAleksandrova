@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalinka Aleksandrova</h1>
 <h3 align="center">A passionate student from Bulgaria</h3>
 
-- 🌱 I’m currently learning **computer science at the University of Telecomunications and Posts - Sofiq**
+- 🌱 I’m currently learning **computer science at the University of Telecomunications and Posts - Sofia**
 
 - 📫 How to reach me **kalinka.aleksandrova96@gmail.com**
 
